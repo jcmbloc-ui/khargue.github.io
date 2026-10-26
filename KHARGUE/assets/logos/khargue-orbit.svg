@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Symbole d'alliance et de mouvement">
+  <defs>
+    <linearGradient id="orbit" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8ecfe0"/>
+      <stop offset=".58" stop-color="#173b58"/>
+      <stop offset="1" stop-color="#a8754d"/>
+    </linearGradient>
+  </defs>
+  <circle cx="120" cy="120" r="104" fill="#fff"/>
+  <path d="M120 32a88 88 0 1 1-70 35" fill="none" stroke="url(#orbit)" stroke-linecap="round" stroke-width="20"/>
+  <path d="m62 47 4 42 39-16" fill="none" stroke="#a8754d" stroke-linecap="round" stroke-linejoin="round" stroke-width="14"/>
+  <circle cx="120" cy="120" r="33" fill="#173b58"/>
+  <circle cx="120" cy="120" r="12" fill="#8ecfe0"/>
+  <circle cx="120" cy="32" r="10" fill="#8ecfe0"/>
+  <circle cx="184" cy="179" r="10" fill="#a8754d"/>
+</svg>

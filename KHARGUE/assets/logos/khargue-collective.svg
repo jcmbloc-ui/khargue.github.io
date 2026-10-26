@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Symbole de collectif et de contribution">
+  <defs>
+    <radialGradient id="collective">
+      <stop offset="0" stop-color="#8ecfe0"/>
+      <stop offset="1" stop-color="#173b58"/>
+    </radialGradient>
+  </defs>
+  <circle cx="120" cy="120" r="104" fill="url(#collective)"/>
+  <circle cx="120" cy="120" r="42" fill="#fff"/>
+  <circle cx="120" cy="120" r="16" fill="#a8754d"/>
+  <g fill="#fff">
+    <circle cx="120" cy="51" r="13"/>
+    <circle cx="181" cy="86" r="13"/>
+    <circle cx="181" cy="155" r="13"/>
+    <circle cx="120" cy="189" r="13"/>
+    <circle cx="59" cy="155" r="13"/>
+    <circle cx="59" cy="86" r="13"/>
+  </g>
+  <path d="M120 64v40M169 92l-34 20M169 148l-34-20M120 176v-40M71 148l34-20M71 92l34 20" stroke="#fff" stroke-linecap="round" stroke-width="5" opacity=".85"/>
+</svg>

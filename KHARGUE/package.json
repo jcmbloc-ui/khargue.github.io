@@ -1,0 +1,14 @@
+{
+  "name": "khargue-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend de paiement et serveur web de KHARGUE",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
